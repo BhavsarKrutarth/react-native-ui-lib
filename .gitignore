@@ -74,3 +74,51 @@ docs/**/*.md
 expoDemo/ios/Pods
 
 .reassure 
+
+
+# Krutarth Rule 23-05-2026
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# VS Code
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Next.js
+.next/
+dist/
+build/
+out/
+
+# Logs
+*.log
+logs/
+
+# Secrets
+.env
+.env.*
+appsettings.Development.json
+appsettings.Production.json
+appsettings.json
+secrets.json
+web.config
+
+# Database
+*.mdf
+*.ldf
+*.db
+
+# SSL
+*.pfx
+*.key
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
